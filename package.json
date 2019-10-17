@@ -1,0 +1,16 @@
+{
+  "name": "my_hooks",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.1.1",
+    "react": "16.10.2",
+    "react-dom": "16.10.2",
+    "use-auth0-hooks": "^0.6.0"
+  }
+}
